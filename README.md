@@ -1,2 +1,2 @@
 # Interception
-C# interceptors
+C# interceptors - various examples using `Unity`, `CastleDynamicProxy`, `ILWeaving`, `ContextBoundObject`
